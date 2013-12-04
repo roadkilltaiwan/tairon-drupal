@@ -1,0 +1,11 @@
+name = Trigger
+description = Enables actions to be fired on certain system events, such as when new content is created.
+package = Core - optional
+version = VERSION
+core = 6.x
+
+; Information added by  packaging script on 2013-11-20
+version = "6.29"
+project = "drupal"
+datestamp = "1384980946"
+
